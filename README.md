@@ -1,2 +1,3 @@
 # hasdoku
-Haskell Sudoku Solver
+Teaching myself Haskell by writing a sudoku solver. 
+
